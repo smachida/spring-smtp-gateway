@@ -17,7 +17,7 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+      url: https://github.com/smachida/spring-smtp-gateway.git
     subPath: spring-smtp-gateway/smtp-gateway
   params:
   - name: ports
